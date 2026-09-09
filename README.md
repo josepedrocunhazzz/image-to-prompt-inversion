@@ -113,7 +113,5 @@ e rastreabilidade de resultados.
 
 ## Contexto académico
 
-Projeto apresentado no portefólio de **José Cunha**. A autoria académica completa
-encontra-se no relatório. Os resultados representam uma experiência de inversão
-de prompts com restrições fixas de modelo e seed, não um método geral de
-reconstrução exata de imagens.
+Trabalho desenvolvido no âmbito académico de modelos generativos e visão
+computacional.

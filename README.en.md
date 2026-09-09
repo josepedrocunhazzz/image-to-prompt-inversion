@@ -114,6 +114,4 @@ result traceability.
 
 ## Academic context
 
-Project presented in **José Cunha's** portfolio. Full academic authorship is
-recorded in the report. The results represent prompt inversion under fixed
-model and seed constraints, not a general exact-image reconstruction method.
+Work developed in an academic context of generative models and computer vision.
