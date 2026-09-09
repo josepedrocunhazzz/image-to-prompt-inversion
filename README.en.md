@@ -114,6 +114,6 @@ result traceability.
 
 ## Academic context
 
-Developed by José Cunha and Gabriel Pinto. The results represent prompt
-inversion under fixed model and seed constraints, not a general exact-image
-reconstruction method.
+Project presented in **José Cunha's** portfolio. Full academic authorship is
+recorded in the report. The results represent prompt inversion under fixed
+model and seed constraints, not a general exact-image reconstruction method.
