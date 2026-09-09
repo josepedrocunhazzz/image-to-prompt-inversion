@@ -1,0 +1,18 @@
+[
+  {
+    "category": "1159_7",
+    "target_name": "1159_7.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_15_gerracaoclasses_piores\\datasets\\pt\\1159_7.json",
+    "prompt_count": 10000,
+    "variation_space": 5764801,
+    "max_clip_tokens": 52
+  },
+  {
+    "category": "9338",
+    "target_name": "9338.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_15_gerracaoclasses_piores\\datasets\\pt\\9338.json",
+    "prompt_count": 10000,
+    "variation_space": 5764801,
+    "max_clip_tokens": 55
+  }
+]

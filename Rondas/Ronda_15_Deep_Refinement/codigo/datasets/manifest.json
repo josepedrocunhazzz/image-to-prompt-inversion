@@ -1,0 +1,11 @@
+{
+  "source_csv": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\best_of_runs\\best_of_runs.csv",
+  "pt_dir": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_15_gerracaoclasses_piores\\datasets\\pt",
+  "pt_prompts_per_category": 10000,
+  "max_clip_tokens": 77,
+  "categories": [
+    "1159_7",
+    "9338"
+  ],
+  "notes": "Ronda_15 focuses on the cube hedgehog/hamster target 1159_7 and the LED-like rainbow dragon hamster target 9338."
+}

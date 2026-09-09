@@ -1,0 +1,64 @@
+{
+  "all_candidates": {
+    "clip_iisim": {
+      "mean": 0.6797545356675982,
+      "std": 0.06201995500721248
+    },
+    "lpips_alex": {
+      "mean": 0.6040497669950128,
+      "std": 0.09484061183873656
+    },
+    "pixel_mse_01": {
+      "mean": 0.024594109581084923,
+      "std": 0.006362276295942903
+    },
+    "pixel_rmse_01": {
+      "mean": 0.1554806193912113,
+      "std": 0.020523226687473275
+    },
+    "pixel_ssim_01": {
+      "mean": 0.5017358482741324,
+      "std": 0.1461091328940636
+    },
+    "combined_score": {
+      "mean": 0.5604674140228176,
+      "std": 0.14754483572159258
+    },
+    "selection_score": {
+      "mean": 0.5625299140228176,
+      "std": 0.15126029581290762
+    }
+  },
+  "top5": {
+    "clip_iisim": {
+      "mean": 0.7296217501163482,
+      "std": 0.05594078078285609
+    },
+    "lpips_alex": {
+      "mean": 0.5343369543552399,
+      "std": 0.10043392343457577
+    },
+    "pixel_mse_01": {
+      "mean": 0.014932192116975784,
+      "std": 0.0020135042416954516
+    },
+    "pixel_rmse_01": {
+      "mean": 0.12193576775230386,
+      "std": 0.00842355557232208
+    },
+    "pixel_ssim_01": {
+      "mean": 0.6198782980870128,
+      "std": 0.11799060560275575
+    },
+    "combined_score": {
+      "mean": 0.8726703494016524,
+      "std": 0.03232821499889755
+    },
+    "selection_score": {
+      "mean": 0.8996703494016522,
+      "std": 0.037162274781425725
+    }
+  },
+  "mode": "streaming: candidates rendered in memory; only top-k images saved",
+  "ranking_score": "target-specific weighted normalised CLIP/LPIPS/RMSE/SSIM plus a small Pareto-front bonus"
+}

@@ -1,0 +1,64 @@
+{
+  "all_candidates": {
+    "clip_iisim": {
+      "mean": 0.7854819061780217,
+      "std": 0.09664909955099847
+    },
+    "lpips_alex": {
+      "mean": 0.5595504825765436,
+      "std": 0.09299672909736567
+    },
+    "pixel_mse_01": {
+      "mean": 0.027642169771621927,
+      "std": 0.009067066774087607
+    },
+    "pixel_rmse_01": {
+      "mean": 0.16384034204433492,
+      "std": 0.028286542942765662
+    },
+    "pixel_ssim_01": {
+      "mean": 0.5050114658717166,
+      "std": 0.13980199450119166
+    },
+    "combined_score": {
+      "mean": 0.5751861184973354,
+      "std": 0.16401399644990122
+    },
+    "selection_score": {
+      "mean": 0.577913391224608,
+      "std": 0.16776698492322117
+    }
+  },
+  "top5": {
+    "clip_iisim": {
+      "mean": 0.8604815363883972,
+      "std": 0.06748269743253281
+    },
+    "lpips_alex": {
+      "mean": 0.4977782636880875,
+      "std": 0.08540233280321549
+    },
+    "pixel_mse_01": {
+      "mean": 0.02011921852827072,
+      "std": 0.0070627852322805084
+    },
+    "pixel_rmse_01": {
+      "mean": 0.1392874483511151,
+      "std": 0.027257873144940974
+    },
+    "pixel_ssim_01": {
+      "mean": 0.6555515960030708,
+      "std": 0.11098516155286076
+    },
+    "combined_score": {
+      "mean": 0.8594563214247005,
+      "std": 0.06843444035733456
+    },
+    "selection_score": {
+      "mean": 0.8834563214247005,
+      "std": 0.07181267364615583
+    }
+  },
+  "mode": "streaming: candidates rendered in memory; only top-k images saved",
+  "ranking_score": "target-specific weighted normalised CLIP/LPIPS/RMSE/SSIM plus a small Pareto-front bonus"
+}

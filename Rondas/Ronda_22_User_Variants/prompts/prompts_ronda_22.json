@@ -1,0 +1,200 @@
+{
+  "1159_25.png": [
+    {
+      "id": "1159_25_round45_user_variants_user_translucent_001",
+      "prompt": "realistic orange juice still life, single clear glass, translucent orange juice, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_25_user_translucent"
+    },
+    {
+      "id": "1159_25_round45_user_variants_translucent_pale_002",
+      "prompt": "realistic orange juice still life, single clear glass, pale translucent orange juice, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_25_translucent_pale"
+    },
+    {
+      "id": "1159_25_round45_user_variants_translucent_less_milky_003",
+      "prompt": "realistic orange juice still life, single clear glass, translucent orange juice without milky creaminess, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_25_translucent_less_milky"
+    },
+    {
+      "id": "1159_25_round45_user_variants_warm_translucent_centered_004",
+      "prompt": "realistic orange juice still life, single clear glass centered, translucent orange juice, orange slice on the rim, few citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_25_warm_translucent_centered"
+    },
+    {
+      "id": "1159_25_round45_user_variants_control_less_milky_005",
+      "prompt": "realistic orange juice still life, single clear glass, pale orange juice without milky creaminess, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_25_control_less_milky"
+    }
+  ],
+  "1159_29.png": [
+    {
+      "id": "1159_29_round45_user_variants_user_sunset_ripples_001",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle surf, softly rippled foreground water, warm sunset glow behind the tree, lightly shadowed sunset clouds, shallow turquoise sea, subtle water reflections, calm tropical atmosphere, muted colors",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_29_user_sunset_ripples"
+    },
+    {
+      "id": "1159_29_round45_user_variants_sunset_ripples_no_beach_002",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle surf, softly rippled foreground water, warm sunset glow behind the tree, lightly shadowed sunset clouds, no beach, subtle water reflections, muted colors",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_29_sunset_ripples_no_beach"
+    },
+    {
+      "id": "1159_29_round45_user_variants_small_surf_shadow_clouds_003",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, small gentle surf around the trunk, softly rippled foreground water, warm sunset glow behind the tree, lightly shadowed clouds, subtle water reflections, muted colors",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_29_small_surf_shadow_clouds"
+    },
+    {
+      "id": "1159_29_round45_user_variants_calm_tropical_original_004",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle surf and reflective foreground water, warm sunset glow behind the tree, lightly shadowed sunset clouds, shallow turquoise sea, calm tropical atmosphere, muted colors",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_29_calm_tropical_original"
+    },
+    {
+      "id": "1159_29_round45_user_variants_control_005",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle surf and reflective foreground water, low sun reflection behind the tree, shallow turquoise sea, muted colors",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_29_control"
+    }
+  ],
+  "1159_3.png": [
+    {
+      "id": "1159_3_round45_user_variants_user_no_weapon_chest_fire_001",
+      "prompt": "single blond anime warrior mage in pale silver armor, glowing golden chest fissure, golden fire emerging from the center of the chest, no weapon, blue green mist and pale orange fire clouds behind, desaturated colors, matte surfaces, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_3_user_no_weapon_chest_fire"
+    },
+    {
+      "id": "1159_3_round45_user_variants_chest_fire_desaturated_002",
+      "prompt": "single blond anime warrior mage in pale silver armor, glowing golden chest fissure, golden fire emerging from the chest center, no weapon, blue green mist and pale orange fire clouds behind, desaturated colors, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_3_chest_fire_desaturated"
+    },
+    {
+      "id": "1159_3_round45_user_variants_chest_fissure_no_weapon_003",
+      "prompt": "single blond anime warrior mage in matte pale silver armor, glowing golden chest fissure, soft golden fire from the center of the chest, no weapon, muted blue green mist and pale orange fire clouds behind, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_3_chest_fissure_no_weapon"
+    },
+    {
+      "id": "1159_3_round45_user_variants_subtle_chest_fire_004",
+      "prompt": "single blond anime warrior mage in pale silver armor, subtle golden chest fissure, small golden fire emerging from the chest center, no weapon, subdued blue green mist and pale orange fire clouds behind, desaturated soft brushwork, low contrast",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_3_subtle_chest_fire"
+    },
+    {
+      "id": "1159_3_round45_user_variants_hybrid_chest_blade_control_005",
+      "prompt": "single blond anime warrior mage in pale silver armor, glowing golden chest fissure, curved amber energy blade crossing the lower body, blue green mist and pale orange fire clouds behind, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_3_hybrid_chest_blade_control"
+    },
+    {
+      "id": "1159_3_round45_user_variants_control_006",
+      "prompt": "single blond anime warrior mage in reflective silver armor, curved amber energy blade crossing the lower body, blue green mist and orange fire clouds behind, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_3_control"
+    }
+  ],
+  "1159_7.png": [
+    {
+      "id": "1159_7_round45_user_variants_user_125_voxel_001",
+      "prompt": "small hedgehog with body made from 125 individual wooden cubes arranged in a precise 5x5x5 grid, clearly separated cube blocks, visible gaps between cubes, geometric voxel structure, tiny face with only eyes and nose visible, no visible ears, dense orange spiky fur covering the head, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_7_user_125_voxel"
+    },
+    {
+      "id": "1159_7_round45_user_variants_voxel_cube_soft_002",
+      "prompt": "small hedgehog with body made from individual wooden cubes in a precise 5x5x5 grid, separated cube blocks, geometric voxel structure, tiny eyes and nose only, no visible ears, dense orange spiky fur covering the head, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_7_voxel_cube_soft"
+    },
+    {
+      "id": "1159_7_round45_user_variants_visible_cube_gaps_003",
+      "prompt": "small hedgehog with compact cubical wooden body, 5x5x5 grid of separated wooden cube blocks with visible gaps, geometric voxel structure, tiny eyes and nose only, no ears, dense orange spiky fur on the head, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_7_visible_cube_gaps"
+    },
+    {
+      "id": "1159_7_round45_user_variants_cube_blocks_head_fur_004",
+      "prompt": "small hedgehog with cubical wooden body built from clearly separated cube blocks, precise 5x5x5 voxel grid, tiny face with eyes and nose only, no ears, dense orange spiky fur covering the head, studio object photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_7_cube_blocks_head_fur"
+    },
+    {
+      "id": "1159_7_round45_user_variants_control_005",
+      "prompt": "small hedgehog with compact cubical wooden block body, warm peach beige cube grid sides, small face mostly hidden below orange spiky fur, soft amber bristles forming a low square cap on top, subtle wood block texture, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round45_user_variants_1159_7_control"
+    }
+  ],
+  "7836.png": [
+    {
+      "id": "7836_round45_user_variants_user_full_haze_001",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc reflecting the light from a wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, faint blue nebula haze across the entire image, atmospheric space haze, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_7836_user_full_haze"
+    },
+    {
+      "id": "7836_round45_user_variants_full_haze_short_002",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc reflecting pale pink light from a wide diagonal planetary stripe, slanted planetary ring from lower left to upper right, faint blue nebula haze across the entire image, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_7836_full_haze_short"
+    },
+    {
+      "id": "7836_round45_user_variants_atmospheric_haze_reflection_003",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc reflecting the wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, faint blue nebula haze across the image, atmospheric space haze, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_7836_atmospheric_haze_reflection"
+    },
+    {
+      "id": "7836_round45_user_variants_reflection_plus_haze_004",
+      "prompt": "tiny astronaut standing bottom center, low curved ground arc with pale pink reflection, wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, faint blue nebula haze across the entire image, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_7836_reflection_plus_haze"
+    },
+    {
+      "id": "7836_round45_user_variants_control_reflected_005",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc reflecting pale pink light, wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, subtle blue nebula clouds across most of the sky, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_7836_control_reflected"
+    }
+  ],
+  "9338.png": [
+    {
+      "id": "9338_round45_user_variants_user_natural_belly_001",
+      "prompt": "rainbow teal fantasy hamster, cute hamster anatomy, looking left, orange rounded snout and small ears, natural beige hamster belly, rainbow scale quills only on the shoulders and back, tiny paws close to the chest, rainbow painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_9338_user_natural_belly"
+    },
+    {
+      "id": "9338_round45_user_variants_natural_belly_keep_teal_002",
+      "prompt": "rainbow teal fantasy hamster with cute hamster anatomy, looking left, orange rounded snout and small ears, natural beige hamster belly, rainbow scale quills only on shoulders and back, tiny paws close to the chest, rainbow painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_9338_natural_belly_keep_teal"
+    },
+    {
+      "id": "9338_round45_user_variants_shoulder_back_quills_003",
+      "prompt": "rainbow teal fantasy hamster, looking left, orange rounded snout and small ears, natural beige hamster belly, rainbow scale quills only on the shoulders and back, tiny paws close to the chest, rainbow painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_9338_shoulder_back_quills"
+    },
+    {
+      "id": "9338_round45_user_variants_less_rainbow_belly_004",
+      "prompt": "orange teal fantasy hamster with cute hamster anatomy, looking left, orange rounded snout and small ears, natural beige hamster belly with slight blue green glow, rainbow scale quills on shoulders and back, tiny paws close to the chest, rainbow painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_9338_less_rainbow_belly"
+    },
+    {
+      "id": "9338_round45_user_variants_control_005",
+      "prompt": "orange teal fantasy hamster with scales, single creature looking left, orange rounded snout and small ears, blue green glowing belly patch, rainbow scale quills on shoulder and back, tiny paws close to the belly, yellow orange painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round45_user_variants_9338_control"
+    }
+  ]
+}

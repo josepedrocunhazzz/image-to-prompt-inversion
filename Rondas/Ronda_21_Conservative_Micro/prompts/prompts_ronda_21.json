@@ -1,0 +1,194 @@
+{
+  "1159_25.png": [
+    {
+      "id": "1159_25_round44_conservative_micro_control_round43_best_001",
+      "prompt": "realistic orange juice still life, single clear glass, pale orange juice without milky creaminess, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_25_control_round43_best"
+    },
+    {
+      "id": "1159_25_round44_conservative_micro_no_creamy_clean_002",
+      "prompt": "realistic orange juice still life, single clear glass, pale orange juice, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_25_no_creamy_clean"
+    },
+    {
+      "id": "1159_25_round44_conservative_micro_less_milky_smooth_003",
+      "prompt": "realistic orange juice still life, single clear glass, smooth pale orange juice without milky creaminess, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_25_less_milky_smooth"
+    },
+    {
+      "id": "1159_25_round44_conservative_micro_less_milky_target_layout_004",
+      "prompt": "realistic orange juice still life, single clear glass centered, pale orange juice without milky creaminess, orange slice on the rim, few citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_25_less_milky_target_layout"
+    }
+  ],
+  "1159_29.png": [
+    {
+      "id": "1159_29_round44_conservative_micro_control_001",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle surf and reflective foreground water, low sun reflection behind the tree, shallow turquoise sea, muted colors",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_29_control"
+    },
+    {
+      "id": "1159_29_round44_conservative_micro_slightly_stronger_surf_002",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, slightly stronger small surf and reflective foreground water, low sunset reflection behind the tree, shadowed clouds, shallow turquoise sea, muted colors",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_29_slightly_stronger_surf"
+    },
+    {
+      "id": "1159_29_round44_conservative_micro_small_active_surf_no_beach_003",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, small active surf around the trunk, reflective foreground water, low sunset glow behind the tree, shadowed clouds, no beach, muted colors",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_29_small_active_surf_no_beach"
+    },
+    {
+      "id": "1159_29_round44_conservative_micro_gentle_visible_surf_004",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle but visible surf ripples, reflective foreground water, low sunset reflection behind the tree, shadowed clouds, muted colors",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_29_gentle_visible_surf"
+    },
+    {
+      "id": "1159_29_round44_conservative_micro_moody_clouds_same_ocean_005",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle surf and reflective foreground water, low sunset reflection behind the tree, moody shadowed clouds, shallow turquoise sea, muted colors",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_29_moody_clouds_same_ocean"
+    },
+    {
+      "id": "1159_29_round44_conservative_micro_light_foam_around_roots_006",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, light foam around the roots, reflective foreground water, low sunset reflection behind the tree, shadowed clouds, shallow turquoise sea, muted colors",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_29_light_foam_around_roots"
+    }
+  ],
+  "1159_3.png": [
+    {
+      "id": "1159_3_round44_conservative_micro_control_001",
+      "prompt": "single blond anime warrior mage in reflective silver armor, curved amber energy blade crossing the lower body, blue green mist and orange fire clouds behind, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_3_control"
+    },
+    {
+      "id": "1159_3_round44_conservative_micro_pale_armor_hybrid_blade_002",
+      "prompt": "single blond anime warrior mage in pale silver armor, curved amber energy blade starting near the center of the chest and crossing the lower body, pale blue green mist and muted orange fire clouds behind, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_3_pale_armor_hybrid_blade"
+    },
+    {
+      "id": "1159_3_round44_conservative_micro_silver_hybrid_subdued_003",
+      "prompt": "single blond anime warrior mage in silver armor, curved amber energy blade emerging from the chest center and sweeping across the lower body, subdued blue green mist and pale orange fire clouds behind, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_3_silver_hybrid_subdued"
+    },
+    {
+      "id": "1159_3_round44_conservative_micro_matte_pale_hybrid_004",
+      "prompt": "single blond anime warrior mage in matte pale silver armor, curved amber energy blade starting at the chest center and bending down across the lower body, muted teal mist and pale orange fire clouds behind, soft brushwork, centered square composition",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_3_matte_pale_hybrid"
+    },
+    {
+      "id": "1159_3_round44_conservative_micro_non_reflective_same_pose_005",
+      "prompt": "single blond anime warrior mage in pale silver armor, curved amber energy blade crossing the lower body from a small chest glow, muted blue green mist and soft orange fire clouds behind, low contrast, subdued colors",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_3_non_reflective_same_pose"
+    },
+    {
+      "id": "1159_3_round44_conservative_micro_washed_colors_original_blade_006",
+      "prompt": "single blond anime warrior mage in silver armor, curved amber energy blade crossing the lower body, washed blue green mist and pale orange fire clouds behind, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_3_washed_colors_original_blade"
+    }
+  ],
+  "1159_7.png": [
+    {
+      "id": "1159_7_round44_conservative_micro_control_001",
+      "prompt": "small hedgehog with compact cubical wooden block body, warm peach beige cube grid sides, small face mostly hidden below orange spiky fur, soft amber bristles forming a low square cap on top, subtle wood block texture, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_7_control"
+    },
+    {
+      "id": "1159_7_round44_conservative_micro_no_ears_soft_002",
+      "prompt": "small hedgehog with compact cubical wooden block body, warm peach beige cube grid sides, no ears visible, only tiny eyes and nose below orange spiky fur, soft bristles forming a low square cap on top, subtle wood block texture, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_7_no_ears_soft"
+    },
+    {
+      "id": "1159_7_round44_conservative_micro_five_by_five_soft_003",
+      "prompt": "small hedgehog with compact cubical wooden block body, warm peach beige 5 by 5 cube grid sides, tiny eyes and nose only, no ears visible, orange spiky fur above, soft bristles forming a low square cap, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_7_five_by_five_soft"
+    },
+    {
+      "id": "1159_7_round44_conservative_micro_cubelets_less_literal_004",
+      "prompt": "small hedgehog with compact cubical wooden block body made of small geometric cube tiles, tiny eyes and nose only, no ears visible, orange spiky fur above, soft bristles forming a low square cap, subtle wood block texture",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_7_cubelets_less_literal"
+    },
+    {
+      "id": "1159_7_round44_conservative_micro_head_hidden_grid_005",
+      "prompt": "small hedgehog with compact cubical wooden block body, square peach beige grid sides, tiny head mostly hidden with only eyes and nose visible, no ears, orange spiky fur, soft bristles forming a low square cap",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_1159_7_head_hidden_grid"
+    }
+  ],
+  "7836.png": [
+    {
+      "id": "7836_round44_conservative_micro_control_round43_best_001",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc reflecting pale pink light, wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, subtle blue nebula clouds across most of the sky, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_7836_control_round43_best"
+    },
+    {
+      "id": "7836_round44_conservative_micro_reflection_across_ground_002",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc reflecting light from the wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, subtle blue nebula clouds across most of the sky, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_7836_reflection_across_ground"
+    },
+    {
+      "id": "7836_round44_conservative_micro_more_nebula_less_edge_003",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc reflecting pale pink light, wide pale pink diagonal planetary stripe, slanted planetary ring, subtle blue nebula clouds spread through most of the image, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_7836_more_nebula_less_edge"
+    },
+    {
+      "id": "7836_round44_conservative_micro_pink_reflection_low_arc_004",
+      "prompt": "tiny astronaut standing bottom center, low thin curved ground arc with pale pink reflection, wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, subtle blue nebula clouds across the image, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_7836_pink_reflection_low_arc"
+    }
+  ],
+  "9338.png": [
+    {
+      "id": "9338_round44_conservative_micro_control_001",
+      "prompt": "orange teal fantasy hamster with scales, single creature looking left, orange rounded snout and small ears, blue green glowing belly patch, rainbow scale quills on shoulder and back, tiny paws close to the belly, yellow orange painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_9338_control"
+    },
+    {
+      "id": "9338_round44_conservative_micro_chest_paws_only_002",
+      "prompt": "orange teal fantasy hamster with scales, single creature looking left, orange rounded snout and small ears, blue green glowing belly patch, rainbow scale quills on shoulder and back, tiny paws close to the chest, yellow orange painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_9338_chest_paws_only"
+    },
+    {
+      "id": "9338_round44_conservative_micro_rainbow_aura_keep_belly_003",
+      "prompt": "orange teal fantasy hamster with scales, looking left, orange rounded snout and small ears, blue green glowing belly patch, rainbow scale quills on shoulder and back, tiny paws close to the chest, rainbow painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_9338_rainbow_aura_keep_belly"
+    },
+    {
+      "id": "9338_round44_conservative_micro_rainbow_teal_keep_identity_004",
+      "prompt": "rainbow teal fantasy hamster with scales, looking left, orange rounded snout and small ears, blue green glowing belly patch, rainbow scale quills on shoulder and back, tiny paws close to the chest, yellow orange painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_9338_rainbow_teal_keep_identity"
+    },
+    {
+      "id": "9338_round44_conservative_micro_hamster_belly_subtle_005",
+      "prompt": "orange teal fantasy hamster with scales, looking left, orange rounded snout and small ears, warm hamster colored belly with slight blue green glow, rainbow scale quills on shoulder and back, tiny paws close to the chest, yellow orange painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round44_conservative_micro_9338_hamster_belly_subtle"
+    }
+  ]
+}

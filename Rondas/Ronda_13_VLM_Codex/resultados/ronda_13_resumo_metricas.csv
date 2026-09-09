@@ -1,0 +1,4 @@
+target,final_prompt,clip_iisim,lpips_alex,pixel_rmse_01,pixel_ssim_01,selection_score,maxstack_score
+1159_25.png,"photorealistic orange juice still life, small orange garnish on the rim, scattered pale citrus cubes on brown tabletop, warm realistic product photo",0.941474,0.354101,0.133045,0.734755,0.78,0.8024
+1159_29.png,"single slender palm tree rising from shallow turquoise ocean, shallow surf and reflective water in foreground, low sun reflection behind the tree, soft atmospheric tropical photo",0.925262,0.504083,0.142399,0.739021,0.69,0.7502
+1159_3.png,"single blond anime warrior mage in reflective silver armor, diagonal yellow energy blade across the waist, blue green mist and orange fire clouds behind, soft brushwork, square crop",0.868485,0.512916,0.154191,0.57913,1.03,0.9474

@@ -1,0 +1,74 @@
+{
+  "1159_25.png": [
+    {
+      "id": "1159_25_round42_seed_sweep_metric_best_001",
+      "prompt": "realistic orange juice still life, single clear glass, pale creamy orange juice, orange slice on the rim, minimal citrus pieces on brown studio surface, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_metric_best"
+    },
+    {
+      "id": "1159_25_round42_seed_sweep_visual_pick_002",
+      "prompt": "realistic orange juice still life, single tall clear glass, pale creamy orange juice, orange slice on the rim, scattered tiny citrus pieces on brown tabletop, warm realistic product photo",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_visual_pick"
+    }
+  ],
+  "1159_29.png": [
+    {
+      "id": "1159_29_round42_seed_sweep_metric_best_001",
+      "prompt": "single slender palm tree rising from shallow turquoise ocean, gentle surf and reflective foreground water, low sun reflection behind the tree, shallow turquoise sea, muted colors",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_metric_best"
+    },
+    {
+      "id": "1159_29_round42_seed_sweep_visual_pick_002",
+      "prompt": "solitary palm tree in choppy shallow water, white surf swirling around the tree roots, large foamy waves in the foreground, low sunset reflection behind the trunk, small dark island shape at far right, cinematic tropical seascape",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_visual_pick"
+    }
+  ],
+  "1159_3.png": [
+    {
+      "id": "1159_3_round42_seed_sweep_metric_best_001",
+      "prompt": "single blond anime warrior mage in reflective silver armor, curved amber energy blade crossing the lower body, blue green mist and orange fire clouds behind, soft brushwork, centered square composition, low contrast",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_metric_best"
+    },
+    {
+      "id": "1159_3_round42_seed_sweep_visual_pick_002",
+      "prompt": "single stern blond anime warrior mage, light grey segmented armor, curved yellow energy blade crossing the torso, soft teal and orange elemental smoke, centered square composition",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_visual_pick"
+    }
+  ],
+  "1159_7.png": [
+    {
+      "id": "1159_7_round42_seed_sweep_metric_best_001",
+      "prompt": "small hedgehog with compact cubical wooden block body, warm peach beige cube grid sides, small face mostly hidden below orange spiky fur, soft amber bristles forming a low square cap on top, subtle wood block texture, realistic studio object photo",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_metric_best"
+    }
+  ],
+  "7836.png": [
+    {
+      "id": "7836_round42_seed_sweep_metric_best_001",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc under the astronaut, wide pale pink diagonal planetary stripe, slanted planetary ring from lower left to upper right, subtle blue nebula clouds around the edges, moody realistic space illustration",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_metric_best"
+    },
+    {
+      "id": "7836_round42_seed_sweep_visual_pick_002",
+      "prompt": "tiny astronaut standing bottom center, thin curved ground arc under the astronaut, massive diagonal pink planet band crossing the sky, dark blue black starfield, cinematic realistic space landscape",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_visual_pick"
+    }
+  ],
+  "9338.png": [
+    {
+      "id": "9338_round42_seed_sweep_metric_best_001",
+      "prompt": "orange teal fantasy hamster with scales, single creature looking left, orange rounded snout and small ears, blue green glowing belly patch, rainbow scale quills on shoulder and back, tiny paws close to the belly, yellow orange painterly aura, storybook painterly illustration",
+      "negative_prompt": "",
+      "source": "round42_seed_sweep_metric_best"
+    }
+  ]
+}

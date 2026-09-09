@@ -1,0 +1,26 @@
+{
+  "round": 36,
+  "name": "codex_vlm_refinement",
+  "anchor_csv": "TP2-students/students/outputs/best_of_runs/best_of_runs.csv",
+  "targets": [
+    "1159_25.png",
+    "1159_29.png",
+    "1159_3.png",
+    "1159_7.png",
+    "7836.png",
+    "9338.png"
+  ],
+  "top_anchors_per_target": 1,
+  "iterations_per_target": 20,
+  "variants_per_iteration": 1,
+  "output_dir": "TP2-students/students/outputs/vlm_refinement/runs",
+  "ranking_field": "maxstack_score",
+  "modes": {
+    "interactive": "User runs the command, the runner prints CODEX_VLM_REQUEST, Codex returns JSON, user pastes it in the terminal.",
+    "file": "Runner waits for codex_response.json in each iteration folder.",
+    "schedule": "Fully automatic local Codex prompt schedule, useful for unattended runs."
+  },
+  "main_runner": "vlm_refinement/run_ronda_13.py",
+  "prompt_schedule": "vlm_refinement/prompts/codex_vlm_schedules.py",
+  "clean_view": "Each finished run creates RUN_README.md and review/<target>/ with readable images, prompts, decisions, and compact metrics."
+}

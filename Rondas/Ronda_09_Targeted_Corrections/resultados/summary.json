@@ -1,0 +1,96 @@
+{
+  "all_candidates": {
+    "clip_iisim": {
+      "mean": 0.704827549349178,
+      "std": 0.0749355413899556
+    },
+    "lpips_alex": {
+      "mean": 0.6332851515033028,
+      "std": 0.08106887267381024
+    },
+    "pixel_mse_01": {
+      "mean": 0.02899506360461766,
+      "std": 0.00881863958142092
+    },
+    "pixel_rmse_01": {
+      "mean": 0.1685022487460352,
+      "std": 0.02455916148604566
+    },
+    "pixel_ssim_01": {
+      "mean": 0.49198501040471837,
+      "std": 0.09213821497147416
+    },
+    "color_hist_sim": {
+      "mean": 0.6461106939347906,
+      "std": 0.10227708980666082
+    },
+    "edge_sim": {
+      "mean": 0.9314992985482821,
+      "std": 0.01067492863150683
+    },
+    "layout_sim": {
+      "mean": 0.9488378888084208,
+      "std": 0.024232262167786154
+    },
+    "visual_specific_score": {
+      "mean": 0.8065421445242388,
+      "std": 0.04864511197017263
+    },
+    "combined_score": {
+      "mean": 0.6009157214131092,
+      "std": 0.12400226594678657
+    },
+    "selection_score": {
+      "mean": 0.6034793577767456,
+      "std": 0.12760753112038176
+    }
+  },
+  "top5": {
+    "clip_iisim": {
+      "mean": 0.7461563527584076,
+      "std": 0.08981707398446938
+    },
+    "lpips_alex": {
+      "mean": 0.5354209899902344,
+      "std": 0.07094760743228111
+    },
+    "pixel_mse_01": {
+      "mean": 0.01806341214105487,
+      "std": 0.004113486689615411
+    },
+    "pixel_rmse_01": {
+      "mean": 0.13364204097191826,
+      "std": 0.01502653304861447
+    },
+    "pixel_ssim_01": {
+      "mean": 0.6055255817844145,
+      "std": 0.08986591317590749
+    },
+    "color_hist_sim": {
+      "mean": 0.7154428552698205,
+      "std": 0.04937826408616126
+    },
+    "edge_sim": {
+      "mean": 0.937084271333883,
+      "std": 0.010016393551409843
+    },
+    "layout_sim": {
+      "mean": 0.9670318846944423,
+      "std": 0.014482682044904079
+    },
+    "visual_specific_score": {
+      "mean": 0.8433351567771668,
+      "std": 0.02211586597006785
+    },
+    "combined_score": {
+      "mean": 0.8328430935924839,
+      "std": 0.02579385059923918
+    },
+    "selection_score": {
+      "mean": 0.862843093592484,
+      "std": 0.02579385059923918
+    }
+  },
+  "mode": "streaming: candidates rendered in memory; only top-k images saved",
+  "ranking_score": "target-specific weighted normalised CLIP/LPIPS/RMSE/SSIM/color/edge/layout plus a small Pareto-front bonus"
+}

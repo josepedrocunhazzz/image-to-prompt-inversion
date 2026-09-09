@@ -1,0 +1,15 @@
+{
+  "source_csv": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\best_of_runs\\best_of_runs.csv",
+  "ingles_dir": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\ingles",
+  "cn_dir": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\chines",
+  "ingles_prompts_per_category": 1000,
+  "cn_prompts_per_category": 200,
+  "categories": [
+    "1159_25",
+    "1159_29",
+    "1159_3",
+    "1159_7",
+    "7836",
+    "9338"
+  ]
+}

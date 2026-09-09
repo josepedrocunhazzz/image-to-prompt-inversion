@@ -1,0 +1,44 @@
+[
+  {
+    "category": "1159_25",
+    "target_name": "1159_25.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\chines\\1159_25.json",
+    "prompt_count": 200,
+    "variation_space": 3888
+  },
+  {
+    "category": "1159_29",
+    "target_name": "1159_29.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\chines\\1159_29.json",
+    "prompt_count": 200,
+    "variation_space": 3888
+  },
+  {
+    "category": "1159_3",
+    "target_name": "1159_3.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\chines\\1159_3.json",
+    "prompt_count": 200,
+    "variation_space": 3888
+  },
+  {
+    "category": "1159_7",
+    "target_name": "1159_7.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\chines\\1159_7.json",
+    "prompt_count": 200,
+    "variation_space": 3888
+  },
+  {
+    "category": "7836",
+    "target_name": "7836.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\chines\\7836.json",
+    "prompt_count": 200,
+    "variation_space": 3888
+  },
+  {
+    "category": "9338",
+    "target_name": "9338.png",
+    "path": "C:\\Users\\josec\\Documents\\Programaçao\\Projeto2\\Projeto2\\TP2-students\\students\\outputs\\ronda_14_gerac╠ºa╠âoemmassa_top5prompts\\datasets\\chines\\9338.json",
+    "prompt_count": 200,
+    "variation_space": 3888
+  }
+]
